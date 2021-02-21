@@ -1,7 +1,7 @@
 # Joshua Weissman's Beginner Risotto #
 ###### checkout out the video for more instructions https://www.youtube.com/watch?v=eYIMIP2dIpE
 
-(/images/jw_beginner_risotto.png "Fancy Risotto")
+(../images/jw_beginner_risotto.png "Fancy Risotto")
 
 ## Ingredients 
 
