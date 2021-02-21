@@ -1,6 +1,8 @@
 # Joshua Weissman's Beginner Risotto #
 # h3 checkout out the video for more instructions https://www.youtube.com/watch?v=eYIMIP2dIpE
 
+(/images/jw_beginner_risotto.png "Fancy Risotto")
+
 ## Ingredients 
 
 * 1-2 Shallots, finely diced
