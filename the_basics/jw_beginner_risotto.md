@@ -11,13 +11,13 @@
 * 2-3 Tbsp () olive oil 
 * Salt
 * 1.5 cups Arborio rice
-* 1/5 cup white wine
+* 1/2 cup white wine
 * Pinch of saffron threads, lightly crushed
-* 2 tbsp unssalted butter
+* 2 tbsp unsalted butter
 * 1/3 cup Grana Padano, grated
 * Parmigiano Reggiano, grated
 * Fresh crack black pepper
-* Drizzle of balsamic vinegar (the gooey one)
+* Drizzle of balsamic vinegar glaze (the gooey one)
 
 ## Instructions
 
