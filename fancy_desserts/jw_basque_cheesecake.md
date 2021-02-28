@@ -39,4 +39,3 @@ Essentially you want it to almost mold the inside of the cake pan.
 14. (Bake for either an hour or until deep dark-brown)
 15. Pull that out (it will be super poofy and jiggly) and let cool in the cake pan (do not unlock the pan)
 16. Once it's fallen back in a bit and cooled down unlock the pan and let cool all the way to room temp before pulling the parchment paper off.
-17. 
