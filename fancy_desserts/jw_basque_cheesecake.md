@@ -41,5 +41,3 @@ Essentially you want it to almost mold the inside of the cake pan.
 16. Once it's fallen back in a bit and cooled down unlock the pan and let cool all the way to room temp before pulling the parchment paper off.
 
 ### Cooling may take some time but it really does taste better at room temp
-
-![](images/jw_basque_cheesecake_final.png "Final cheesecake")
