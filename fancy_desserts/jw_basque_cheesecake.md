@@ -42,4 +42,4 @@ Essentially you want it to almost mold the inside of the cake pan.
 
 ### Cooling may take some time but it really does taste better at room temp
 
-![](images/jw_basque_cheesecake_final.heic "Final cheesecake")
+![](images/jw_basque_cheesecake_final.png "Final cheesecake")
