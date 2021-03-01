@@ -14,7 +14,7 @@
 * 1 3/4 cup (415ml) heavy cream
 * 1.5 (7g)teaspoons vanilla extract
 * 2tsp (9g) orange blossom water (We used rose water and it was killa)
-* 1/4 cup plus 2 tbsp (52g) all purpose
+* 1/4 cup plus 2 tbsp (52g) all purpose flour
 
 ## Instructions
 
@@ -39,3 +39,7 @@ Essentially you want it to almost mold the inside of the cake pan.
 14. (Bake for either an hour or until deep dark-brown)
 15. Pull that out (it will be super poofy and jiggly) and let cool in the cake pan (do not unlock the pan)
 16. Once it's fallen back in a bit and cooled down unlock the pan and let cool all the way to room temp before pulling the parchment paper off.
+
+### Cooling may take some time but it really does taste better at room temp
+
+![](images/jw_basque_cheesecake_final.heic "Final cheesecake")
