@@ -4,7 +4,7 @@
 ![Should be a nice picture of a Basque Cheesecake here](images/jw_basque_cheesecake.png "Fancy Basque Cheesecake.")
 
 ## Ingredients 
-*Adapted from a La Viña recipe I found online*
+*Adapted from a La Viña recipe Joshua found online*
 * 1.5lb (678g) cream cheese
 * 1/2  pound (226g) mascarpone
 * 1.5 cups (320g) sugar
